@@ -984,7 +984,6 @@ UMUR,JENIS KELAMIN,KECAMATAN,FOTO TORAKS,STATUS HIV,RIWAYAT DIABETES,HASIL TCM,L
 16,L,SOCAH,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
 69,P,BURNEH,Negatif,Tidak diketahui,Tidak,Tidak dilakukan,Ekstra paru
 68,L,BURNEH,Positif,Tidak diketahui,Tidak,Negatif,Paru
-UMUR,JENIS KELAMIN,KECAMATAN,FOTO TORAKS,STATUS HIV,RIWAYAT DIABETES,HASIL TCM,LOKASI ANATOMI (target/output)
 17,P,AROSBAYA,Positif,Negatif,Tidak,Tidak dilakukan,Paru
 19,P,KONANG,Positif,Negatif,Tidak,Tidak dilakukan,Paru
 37,P,MODUNG,Positif,Negatif,Tidak,Tidak dilakukan,Paru
